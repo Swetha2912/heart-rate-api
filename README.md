@@ -11,7 +11,7 @@ This is a Node.js based API to receive, process, and store Heart Rate data.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Swetha2912/heart-rate-api.git
    cd heart-rate-api
    ```
 
